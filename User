@@ -16,5 +16,11 @@
         "key": "Maxo",
         "expirydate": "15-06-2050",
         "Allowoffline": false
+    }٫
+    {
+        "device_id": "c2bee989377e13c4",
+        "key": "Aurasee0",
+        "expirydate": "15-06-3000",
+        "Allowoffline": false
     },
 ]
