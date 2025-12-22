@@ -1,26 +1,8 @@
 [
     {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "Mahan00",
-        "expirydate": "31-12-2021",
-        "Allowoffline": true
-    },
-    {
         "device_id": "c2bee989377e13c4",
         "key": "HosseinYo4w",
-        "expirydate": "15-06-3000",
-        "Allowoffline": false
-    }
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c2bee989377e13c4",
-        "key": "PelaseHo23",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
     },
 ]
