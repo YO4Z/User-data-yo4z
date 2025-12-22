@@ -17,4 +17,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "c2bee989377e13c4",
+        "key": "PelaseHo23",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
