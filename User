@@ -11,4 +11,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": true
     },
+    {
+        "device_id": "388b38db037e88d3",
+        "key": "debhoss79ik",
+        "expirydate": "15-07-2025",
+        "Allowoffline": false
+    },
 ]
