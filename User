@@ -20,7 +20,12 @@
     {
         "device_id": "5522def60ede9dea",
         "key": "Nexkksa3kw",
-        "expirydate": "15-07-2025",
+        "expirydate": "15-07-1325",
         "Allowoffline": true
     },
-]
+    {
+        "device_id": "5522def60ede9dea",
+        "key": "Djakfkfj90",
+        "expirydate": "28-06-2025",
+        "Allowoffline": false
+    },
